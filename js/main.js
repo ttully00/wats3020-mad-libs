@@ -70,21 +70,16 @@ let adjective5 = prompt('What is another word you would use to describe a vehicl
 // TODO: To begin with, prompt the user to collect their favorite number that is not zero.
 // Call this variable "userNumber".
 
-<<<<<<< Updated upstream
-let userNumber = prompt('What is your lucky number?');
-=======
+
 let userNumber = prompt('What is your lucky number?',3);
->>>>>>> Stashed changes
+
 
 // TODO: generate TWO more numbers called "number2" and "number 3".
 // Use any operator you would like to add, multiply, divide, or otherwise
 // change the number that the user submitted.
 
-<<<<<<< Updated upstream
-let number2 = userNumber**4;
-=======
 let number2 = userNumber * 4;
->>>>>>> Stashed changes
+
 
 let number3 = userNumber / number2 + (number2/12);
 
